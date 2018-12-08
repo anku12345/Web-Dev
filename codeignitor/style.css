@@ -1,0 +1,543 @@
+* {
+    margin: 0%;
+}
+
+.nav {
+    width: 100%;
+    height: 50px;
+    background: #e93300;
+
+    float: left;
+}
+
+.image {
+    margin-left: 90px;
+    margin-top: 1px;
+    float: left;
+}
+
+.para1 {
+    margin-left: 100px;
+    margin-top: 13px;
+    font-size: 26px;
+    line-height: 22px;
+    font-weight: 600;
+    color: #ffffff;
+    font-style: italic;
+    text-transform: capitalize;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.ul1 {
+    list-style: none;
+    margin-left: 800px;
+    margin-top: -20px;
+}
+
+.link {
+    display: inline;
+    margin-right: 25px;
+    color: #ffffff;
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 700;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.body {
+    background-color: #86a7ae;
+    width: 100%;
+    height: 330px;
+    float: left;
+}
+
+.image1 {
+    width: 40px;
+    margin-left: 290px;
+    margin-top: 60px;
+    float: left;
+}
+
+.text {
+    color: #ffffff;
+    font-size: 42px;
+    line-height: 46.2px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 500px;
+    font-style: italic;
+    margin-top: 70px;
+}
+
+.text1 {
+    color: #333333;
+    font-size: 21px;
+    line-height: 31.5px;
+    font-weight: 200;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-top: 10px;
+}
+
+.btn {
+    width: 30px;
+    height: 20px;
+}
+
+.btn {
+    width: auto;
+    height: 30px;
+    margin-top: 15px;
+    background-color: white;
+    color: #000000;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    border-radius: 5px;
+}
+
+.dark {
+    width: auto;
+    height: 30px;
+    margin-top: 15px;
+    background-color: white;
+    color: #000000;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    border-radius: 5px;
+}
+
+.btn1 {
+    background-color: #2984e2;
+
+    width: auto;
+    height: 30px;
+    margin-top: 15px;
+    color: white;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 22px;
+    border-radius: 5px;
+}
+
+.btn2 {
+    width: auto;
+    height: 30px;
+    margin-top: 15px;
+    background-color: white;
+    color: #000000;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 22px;
+    border-radius: 5px;
+}
+
+.body1 {
+    width: 100%;
+    height: 250px;
+    float: left;
+    padding-left: 90px;
+}
+
+.child {
+    width: 250px;
+    height: 140px;
+    border: 0.5px solid rgb(211, 207, 207);
+    border-radius: 5px;
+    float: left;
+    box-shadow: 1px 1px 5px rgb(211, 207, 207);
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color: #f5f5f5;
+}
+
+
+.heading {
+    margin-left: 75px;
+    margin-top: 60px;
+    color: #e93300;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+}
+
+.para3 {
+    text-align: center;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #333333;
+    margin-top: 10px;
+}
+
+.body2 {
+    width: 100%;
+
+
+    float: left;
+    height: auto;
+}
+
+.lbody {
+    width: 40%;
+    float: left;
+
+}
+
+.lheading {
+    margin-left: 120px;
+    font-size: 24px;
+    line-height: 26.4px;
+    font-weight: 950;
+    color: #333333;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: italic;
+}
+
+.date {
+    margin-left: 120px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #8ba8af;
+    margin-top: 20px;
+    float: left;
+    margin-right: 30px;
+}
+
+.para4 {
+    margin-left: 200px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #e93300;
+    margin-top: 20px;
+    margin-right: 30px;
+
+}
+
+.date1 {
+    margin-left: 120px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #8ba8af;
+    margin-top: 20px;
+    float: left;
+    margin-right: 30px;
+}
+
+.para5 {
+    margin-left: 200px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #e93300;
+    margin-top: 20px;
+    margin-right: 30px;
+
+}
+
+.date2 {
+    margin-left: 120px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #8ba8af;
+    margin-top: 20px;
+    float: left;
+    margin-right: 30px;
+}
+
+.para6 {
+    margin-left: 200px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #e93300;
+    margin-top: 20px;
+    margin-right: 30px;
+
+}
+
+.date3 {
+    margin-left: 120px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #8ba8af;
+    margin-top: 20px;
+    float: left;
+    margin-right: 30px;
+}
+
+.para7 {
+    margin-left: 200px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #e93300;
+    margin-top: 20px;
+    margin-right: 30px;
+
+}
+
+.date4 {
+    margin-left: 120px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #8ba8af;
+    margin-top: 20px;
+    float: left;
+    margin-right: 30px;
+}
+
+.para8 {
+    margin-left: 200px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #e93300;
+    margin-top: 20px;
+    margin-right: 30px;
+
+}
+
+.Rbody {
+    width: 60%;
+
+
+    float: left;
+
+}
+
+.Rheading {
+    margin-left: 120px;
+    margin-top: -5px;
+    font-size: 24px;
+    line-height: 26.4px;
+    font-weight: 950;
+    color: #333333;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: italic;
+}
+
+.date5 {
+    margin-left: 120px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #8ba8af;
+    margin-top: 20px;
+    float: left;
+    margin-right: 30px;
+}
+
+.para9 {
+    margin-left: 200px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #e93300;
+    margin-top: 20px;
+    margin-right: 30px;
+
+}
+
+.date6 {
+    margin-left: 120px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #8ba8af;
+    margin-top: 20px;
+    float: left;
+    margin-right: 30px;
+}
+
+.para10 {
+    margin-left: 200px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #e93300;
+    margin-top: 20px;
+    margin-right: 30px;
+
+}
+
+.date7 {
+    margin-left: 120px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #8ba8af;
+    margin-top: 20px;
+    float: left;
+    margin-right: 30px;
+}
+
+.para11 {
+    margin-left: 200px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #e93300;
+    margin-top: 20px;
+    margin-right: 30px;
+
+}
+
+.date8 {
+    margin-left: 120px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #8ba8af;
+    margin-top: 20px;
+    float: left;
+    margin-right: 30px;
+}
+
+.para12 {
+    margin-left: 200px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #e93300;
+    margin-top: 20px;
+    margin-right: 30px;
+
+}
+
+.date9 {
+    margin-left: 120px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #8ba8af;
+    margin-top: 20px;
+    float: left;
+    margin-right: 30px;
+}
+
+.para13 {
+    margin-left: 200px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #e93300;
+    margin-top: 20px;
+    margin-right: 30px;
+
+}
+
+.body3 {
+    width: 100%;
+    float: left;
+    height: auto;
+    padding: 110px;
+}
+
+.lbody1,
+.rbody1 {
+    float: left;
+    height: auto;
+
+
+    width: 50%;
+}
+
+.para14 {
+    color: #404040;
+    font-size: 35px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: italic;
+    font-weight: 600;
+    margin-bottom: 60px;
+    margin-left: 1px;
+}
+
+.parahead {
+    margin-bottom: 15px;
+    color: black;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+.parabody {
+    color: #808080;
+    font-size: 15px;
+    margin-bottom: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+
+}
+
+.footerlink {
+    float: left;
+    width: 100%;
+    height: 50px;
+    background-color: #dddddd;
+}
+
+.ul1 {
+    float: left;
+    list-style: none;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.link {
+    display: inline;
+    color: gray;
+    font-size: 16px;
+    font-weight: 400;
+
+
+}
+
+.footer {
+    float: left;
+    width: 100%;
+    height: 75px;
+    background-color: #404040;
+
+}
+
+.footerpara {
+    text-align: center;
+    color: #c0c0c0;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 25px;
+
+}
