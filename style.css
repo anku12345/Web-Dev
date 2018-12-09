@@ -1,0 +1,13 @@
+body{
+	background-color:  #2c3a47;
+}
+.name,.surname{
+	font-size: 140px;
+	color: white;
+	font-family: 'Alex Brush', cursive;
+	font-weight: 500;
+	line-height: 150px;
+}
+.cardcolor{
+	background-color: #2c3a47;
+}
